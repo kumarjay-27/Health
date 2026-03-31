@@ -87,6 +87,6 @@ Contributions are welcome! If you’d like to improve the design, add features, 
 
 ---
 
-Enjoy coding! 😄
+Enjoy coding! 
 
 
