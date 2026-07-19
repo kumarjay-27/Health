@@ -1,5 +1,4 @@
 
-
 🌐 Simple Login & Sign-Up Authentication Website
 
 Welcome to the Simple Authentication Website! This repository contains a basic frontend for a login and sign-up authentication process built using HTML, CSS, and JavaScript. 🚀
